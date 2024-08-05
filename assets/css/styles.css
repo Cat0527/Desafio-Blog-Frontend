@@ -1,0 +1,217 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.logo-desafio{
+    width: 55px;
+    height: 55px;
+    border-radius: 5px;
+    margin-top: 38px;
+    margin-bottom: 37px;
+}
+.logo__title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-left: 21px;
+}
+/*linea separacion*/
+.linea{
+    width: 100%;
+}
+/*primera parte de novedades*/
+.title__Nov{
+    font-size: 28px;
+    font-weight: 700;
+}
+.img__boos{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+}
+.logo-latam{
+    width: 60px;
+    height: 60px;
+    border-radius: 77px;
+}
+.title-latam{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 22px;
+}
+.fecha-Nov{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.title-img{
+    font-size: 24px;
+    font-weight: 700;
+}
+/*segunda parte de novedades*/
+.img-list{
+    width: 189px;
+    height: 145px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+/*tercera parte de novedades*/
+.fecha__Nov--info{
+    font-size: 16px;
+    font-weight: 400;
+}
+.title__img--info{
+    font-size: 20px;
+    font-weight: 700;
+}
+.logo__latam--info{
+    width: 40px;
+    height: 40px;
+    border-radius: 77px;
+}
+.title__latam--info{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+
+/*populares primera section*/
+.box-logo{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.img__programacion{
+    width: 298px;
+    height: 190px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.boxApi{
+    margin-top: 20px;
+}
+
+/*box1*/
+
+.box1{
+    background-color: #E93E30;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__html{
+    width: 85px;
+    height: 74px;
+    margin-top: 6px;
+}
+.text-html{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+/*box2*/
+.box2{
+    background-color: #F7E018;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__js{
+    width: 85px;
+    height: 74px;
+    margin-top: 6px;
+}
+.text-js{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+/*box3*/
+.box3{
+    background-color: #299ED5;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__css{
+    width: 73px;
+    height: 68px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.text-css{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+/*box4*/
+.box4{
+    background-color: #292C33;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__react{
+    width: 85px;
+    height: 74px;
+    margin-top: 6px;
+}
+.text-react{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+/*box5*/
+.box5{
+    background-color: #67C770;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__vue{
+    width: 77px;
+    height: 57px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.text-vue{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+/*box6*/
+.box6{
+    background-color: #563D7C;
+    width: 298px;
+    height: 89px;
+    border-radius: 10px;
+}
+.img__boots{
+    width: 85px;
+    height: 74px;
+    margin-top: 6px;
+}
+.text-bootstrap{
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+/*footer*/
+.text-Footer{
+    margin-top: 52px;
+    margin-left: 800px;
+}
